@@ -13,7 +13,10 @@ const Sidebar = () => {
       <SocialNetworkContainer />
       <InformationContainer />
       <a href="https://docs.google.com/document/d/1W_4lSdC6RdY81zhWeyWGZSGI3SDM9YT8/edit?usp=sharing&ouid=113676463100163427153&rtpof=true&sd=true" className="btn">
-        Ver currículo
+        Currículo
+      </a>
+      <a href="www.linkedin.com/in/matheus-hisamoto-de-souza-4b6b14234" className="btn">
+        Linkedin
       </a>
     </aside>
   );
