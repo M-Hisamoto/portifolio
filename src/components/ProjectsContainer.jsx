@@ -8,7 +8,7 @@ const ProjectsContainer = () => {
       onde estou aplicando conceitos de design web, backend e segurança, além de explorar funcionalidades interativas para os usuários.
       </p>
       <a href="https://github.com/M-Hisamoto" className="btn">
-        Ver Projetos
+        Ver Github
       </a>
     </section>
   );
