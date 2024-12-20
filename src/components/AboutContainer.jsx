@@ -3,7 +3,7 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre</h2>
       <p>
-      Tenho 18 anos e atualmente divido meu tempo entre o trabalho e a faculdade. Durante o dia, atuo na área de redes institucionais, 
+      Tenho 18 anos e atualmente divido meu tempo entre o trabalho e a faculdade. Durante o dia, atuo na área de Sistemas institucionais, 
       o que me proporciona um aprendizado prático e uma visão real do mercado de trabalho. Essa experiência tem sido fundamental para desenvolver habilidades como organização, 
       trabalho em equipe e solução de problemas.
       </p>
